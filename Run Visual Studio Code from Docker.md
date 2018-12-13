@@ -21,7 +21,7 @@ Install XMing server.
 choco install -y xming
 ```
 
-Setup multiwindow
+Setup multiwindow with no access control
 ``` ps
 xming :0 -ac -clipboard -multiwindow
 ```
